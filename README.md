@@ -8,10 +8,7 @@ I have professional experience working with angular, spring boot, hibernate, MyS
 <br>
 <br>
 
-<p align='center'>
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=inzamamul-haque">
-  <br>
-  <br>
-<img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=inzamamul-haque&hide_border=true&layout=compact">
-<p/>
-<br>
+<div style="display: flex; justify-content: space-evenly">
+<img  src="https://github-readme-stats.vercel.app/api?username=inzamamul-haque">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=inzamamul-haque&hide_border=true&layout=compact">
+<div/>
