@@ -1,15 +1,16 @@
 ### Hi there 👋
+<br> 
+-I'm **Inzamamul Haque** I hold a B.Sc Degree in **Computer Science**. 
+-I’m a passionate, self-motivated Software developer.
+<br>
+Currently Working as a full stack developer with 2+ years experience building web application.
+<br>
+I have professional experience working with angular, spring boot, hibernate, MySql.
+<br>
+<br>
 
-**inzamamul-haque/inzamamul-haque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<p align='center'>
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=inzamamul-haque">
+<img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=inzamamul-haque&hide_border=true&layout=compact">
+<p/>
+<br>
