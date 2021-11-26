@@ -1,5 +1,4 @@
 ### Hi there 👋
-<br> 
 I'm **Inzamamul Haque** I hold a B.Sc Degree in **Computer Science**. 
 I’m a passionate, self-motivated Software developer.
 <br>
