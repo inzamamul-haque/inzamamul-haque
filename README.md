@@ -10,6 +10,4 @@ I have professional experience working with angular, spring boot, hibernate, MyS
 
 <p align='center'>
 <img align='center'  src="https://github-readme-stats.vercel.app/api?username=inzamamul-haque">
-<br>
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamamul-haque&hide_border=true&layout=compact">
 <p/>
