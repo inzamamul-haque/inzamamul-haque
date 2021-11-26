@@ -1,6 +1,7 @@
 ### Hey 👋, I'm Inzamamul Haque 
-**I’m an enthusiastic, self-motivated Software developer.**
-**I hold a B.Sc Degree in **Computer Science.** 
+I’m an enthusiastic, self-motivated Software developer. 
+<br>
+I hold a B.Sc Degree in **Computer Science.**
 <br>
 Currently Working as a full stack developer with 2+ years experience building web application.
 <br>
